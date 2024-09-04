@@ -1,0 +1,1 @@
+x.com##  div > article :-abp-contains(プロモーション)
